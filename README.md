@@ -377,7 +377,8 @@ This project is open-source and available for educational purposes.
 ##  Author
 
 **Student Name**: Nguyẽn Minh Đại Dương
-**Institution**: Học viện công nghệ bưu chính viễn  
+
+**Institution**: Học viện công nghệ bưu chính viễn thông
 **Date**: April 2026  
 **Course**: Network Intrusion Detection System (Lab 6)
 
