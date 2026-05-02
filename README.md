@@ -31,7 +31,7 @@ This project implements a **Real-time Network Intrusion Detection System** using
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Network-Intrusion-Detection-ML.git
+git clone https://github.com/onwen333/lab6
 cd Network-Intrusion-Detection-ML
 ```
 
@@ -74,7 +74,7 @@ Network-Intrusion-Detection-ML/
 │   ├── ...
 │   └── Friday-WorkingHours-Afternoon-DDoS.pcap_ISCX.csv
 ├── models/                    # Saved ML models & artifacts
-│   ├── best_model_rf.pkl      # Trained Random Forest classifier
+│   ├── best_model_random_forest.pkl      # Trained Random Forest classifier
 │   ├── label_encoder.pkl      # Label encoder for attack types
 │   └── scaler.pkl             # Feature scaler
 ├── logs/                      # Alert logs
@@ -376,8 +376,8 @@ This project is open-source and available for educational purposes.
 
 ##  Author
 
-**Student Name**: [Your Name]  
-**Institution**: [Your University]  
+**Student Name**: Nguyẽn Minh Đại Dương
+**Institution**: Học viện công nghệ bưu chính viễn  
 **Date**: April 2026  
 **Course**: Network Intrusion Detection System (Lab 6)
 
