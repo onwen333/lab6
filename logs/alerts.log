@@ -1,0 +1,33 @@
+================================================================================
+NETWORK INTRUSION DETECTION SYSTEM - ALERT LOG
+================================================================================
+
+[ALERT #1] Suspicious traffic detected!
+  Threat Type: PortScan
+  Confidence: 99.95%
+  Sample Index: 1
+  Ground Truth: PortScan
+  Status: CORRECT
+----------------------------------------------------------------------
+[ALERT #2] Suspicious traffic detected!
+  Threat Type: DoS GoldenEye
+  Confidence: 99.88%
+  Sample Index: 5
+  Ground Truth: BENIGN
+  Status: INCORRECT
+----------------------------------------------------------------------
+[ALERT #3] Suspicious traffic detected!
+  Threat Type: DDoS
+  Confidence: 100.00%
+  Sample Index: 7
+  Ground Truth: DDoS
+  Status: CORRECT
+----------------------------------------------------------------------
+
+================================================================================
+SUMMARY
+================================================================================
+Total Samples Analyzed: 10
+Alerts Generated: 3
+Detection Rate: 30.0%
+================================================================================

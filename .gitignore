@@ -1,0 +1,17 @@
+# 1. Chặn dữ liệu nặng (Bắt buộc để không bị lỗi push)
+data/
+*.csv
+*.pcap
+
+# 2. Chặn môi trường ảo và file rác Python (Giúp repo sạch sẽ)
+venv/
+.env
+__pycache__/
+*.py[cod]
+
+# 3. Chặn file cấu hình IDE cá nhân
+.vscode/
+.idea/
+
+# 4. KHÔNG chặn thư mục models và logs (Để nộp file .pkl và alerts.log theo yêu cầu)
+# Giữ nguyên, không viết models/ vào đây.
